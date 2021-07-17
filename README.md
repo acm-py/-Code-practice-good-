@@ -16,11 +16,13 @@
   - 面向对象特性的练习
 6. Python 网络编程
   - 顾名思义
-7. Python 特性
+7. Project(small)
+  - 一些用python写的小项目
+8. Python 特性
   - 一些Python语言的特性
   - 未完结
   - todo:
     - yeild 系列
     - 位置交换的原理
     - 等
-8. 以及一些辅助函数
+9. 以及一些辅助函数
